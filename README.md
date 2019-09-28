@@ -1,2 +1,2 @@
 # facebooktest
-spring-social-facebook Facebook API test project
+Facebook API test project using Spring Social (https://projects.spring.io/spring-social/) 
